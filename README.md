@@ -7,5 +7,5 @@
 
 ## Implementation
 
-- [Dataset](https://github.com/nphan20181/Feature_Engineering_Project/blob/main/data_analysis.ipynb)
+- [Dataset](https://github.com/ManojKolluri/NLP-Project-CSCE_5290/blob/main/labeled_data.csv)
 - [Final Implementation](https://github.com/nphan20181/Feature_Engineering_Project/blob/main/merged-cnn-Version-2.ipynb)
