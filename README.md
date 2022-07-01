@@ -8,3 +8,8 @@
 
 - [Dataset](https://github.com/ManojKolluri/NLP-Project-CSCE_5290/blob/main/labeled_data.csv)
 - [Final Implementation](https://github.com/ManojKolluri/NLP-Project-CSCE_5290/blob/main/hate-speech-detection-2.ipynb)
+
+## Video Links
+
+- [Code Demo](https://streamable.com/zsmev9)
+- [PPt Demo](https://streamable.com/gm56ng)
